@@ -1,6 +1,6 @@
 # nba_predictor
 A Python based logistic regression model for predicting NBA games.
-This project was done entirely using Google Co Lab, so it is recommended to use a similar environment to run the following program, such as Jupyter notebook.
+This project was done entirely using Google Colab, so it is recommended to use a similar environment to run the following program, such as Jupyter notebook.
 
 
 ## Introduction
@@ -21,7 +21,7 @@ The 30 day average of the following stats were used for this project:
 
 
 ## Predictive Modeling
-A logistic regression model is trained on the processed data. The model predicts the outcome (the winning team) of NBA games based on the statistical performance of the teams.
+The python library Scikit-learn was used to train a logistic regression model on the processed data. The model predicts the outcome (the winning team) of NBA games based on the statistical performance of the two teams.
 
 ## Prediction
 The model predicts game outcomes for any given pair of teams (matchup). Predictions are based on the most recent team performance data available.
