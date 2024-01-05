@@ -7,7 +7,7 @@ The NBA Game Predictor is a project designed to predict the results of NBA games
 
 This project was done entirely using Google Colab, so it is recommended to use a similar environment to run the following program, such as Jupyter notebook.
 
-The data used was retrieved from the SportsData.io API, which is a free API anyone can use by signing up. To use this model you have to sign up for an account and use your own API Key. Luckily the process is very simple.
+The data used was retrieved from the SportsData.io API, which is a free API anyone can use by signing up. To use this model you have to sign up for an account and paste into the code your own API Key. Luckily the process is very simple.
 
 
 ## Data
